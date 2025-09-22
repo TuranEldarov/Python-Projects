@@ -1,0 +1,2 @@
+A copy of the popular "Higher or Lower" game. Coding a game like this from scratch can be challenging, but by breaking the algorithm into small pieces, you can overcome it with ease. To ensure correctness, I run numerous test cases. For someone starting programming from zero, this could be a real challenge, but since I am already familiar with debugging from competitive programming, it is not a big problem for me.
+
